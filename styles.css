@@ -1,5 +1,6 @@
-html{
+html, body{
   background-color:rgb(190,190,190);
+  margin:0;
 }
 h1{
   display:block;
